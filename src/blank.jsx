@@ -10,6 +10,9 @@ const Vijay=()=>
 const Thinesh=()=>{
     return(
         <h1>Hello thinesh</h1>
+
     )
 }
-export Vijay
+export default Vijay
+export {Thinesh}
+
