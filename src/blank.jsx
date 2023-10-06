@@ -1,18 +1,18 @@
 const Vijay=()=>
 {return(
     <>
-    <h1>Hello Vijay Welcome to the page !!!!!!</h1>
-    <p>The React is Runing</p>
+    <h1 style={{color:'red'}}>Login</h1>
+    <label>
+        <tr>
+            name of the student<
+            <input type='text'/>
+        </tr>
+    </label>
+    
      </>   
     )
 }
 
-const Thinesh=()=>{
-    return(
-        <h1>Hello thinesh</h1>
-
-    )
-}
 export default Vijay
-export {Thinesh}
+
 
