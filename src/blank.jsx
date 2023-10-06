@@ -1,4 +1,4 @@
-
+import './style.css'
 const Vijay=()=>
 {return(
     <>
@@ -10,7 +10,7 @@ const Vijay=()=>
 <body>
     <div class="Wrapper">
         <h2>Login</h2>
-        <form class="login-form" action="login_process.php" method="POST">
+        <form class="login-form" action="/submitForm" method="POST">
 
 	
             <div class="input-box">
