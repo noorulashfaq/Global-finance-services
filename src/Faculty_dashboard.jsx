@@ -27,8 +27,8 @@ const FacultyDashboard = () => {
       
     
       <div className="logosect">
-       <h1>_</h1>
-        <div className="logo"> Welcome</div>
+        <div className="logo"> Welcome </div>
+        {}
         <img
           src="https://mec.edu.in/wp-content/uploads/2021/02/main-logo.png"
           className="icn menuicn"
@@ -104,6 +104,7 @@ const FacultyDashboard = () => {
                             <th>Event Type</th>
                             <th>Title</th>
                             <th>Date</th>
+                            <th>HoD</th>
                         </tr>
                     </thead>
                     <tbody>
