@@ -1,0 +1,12 @@
+.finance-container{
+    height: 100vh;
+    background-color: white;
+}
+
+.finance-text p{
+    font-size: 50px;
+    margin-left: 350px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+}
